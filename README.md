@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 ## 🔗 Live Website
 
 [Visit Portfolio](https://jannatulmahiya.netlify.app/)  
-*(Update the link if it's different)*
+
 
 ---
 
